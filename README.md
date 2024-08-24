@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Analytics. I am Environmental Scientist by Profession (BSc. Environmental Sciences and Management - Sokoine University of Agriculture, Tanzania).
 - 🌱 I’m currently advancing my skills on R programming for Data Science and Analytics.
 - 💞️ I’m looking to collaborate on all issues related to Environment, Climate change, Environmental health management and Ecological restoration, Research, Proposal and Report writing, and Data Analysis, among other areas.
-- 📫 How to reach me
+- 📫 How to reach me: anordiusgeorge3@gmail.com 
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: Keep your head up!
 
