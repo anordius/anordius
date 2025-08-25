@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anordius.
 - 👀 I’m a self-taught Data Scientist and Analyst, being Environmental Scientist by Profession (BSc. Environmental Sciences and Management - Sokoine University of Agriculture, Tanzania).
-- 🌱 I’m currently doing my Masters program in Environmental and Natural Resource Economics at Sokine University of Agriculture [(Visit the University website here)](https://sua.ac.tz). Visit my Linkedin account: [anordiusgeorge](https://www.linkedin.com/in/anordiusgeorge) for more details about me. 
+- 🌱 I’m currently doing my Masters program in Environmental and Natural Resource Economics at Sokoine University of Agriculture [(Visit the University website here)](https://sua.ac.tz). Visit my Linkedin account: [anordiusgeorge](https://www.linkedin.com/in/anordiusgeorge) for more details about me. 
 - ✨ On my extra time, I do advance my skills on Python and R programming for Data Science and Analytics.
 - 💞️ I’m looking to collaborate on all issues related to Environment and Natural Resource Economics, Climate change, Environmental health management and Ecological restoration, Research, Proposal and Report writing, and Data Analysis, among other areas.
 - 😄 Pronouns: him/his
