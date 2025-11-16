@@ -1,8 +1,39 @@
-- 👋 Hi, I’m @anordius.
-- 👀 I’m a self-taught Data Scientist and Analyst, being Environmental Scientist by Profession (BSc. Environmental Sciences and Management - Sokoine University of Agriculture, Tanzania).
-- 🌱 I’m currently doing my Masters program in Environmental and Natural Resource Economics at Sokoine University of Agriculture [(Visit the University website here)](https://sua.ac.tz). Visit my Linkedin account: [anordiusgeorge](https://www.linkedin.com/in/anordiusgeorge) for more details about me. 
-- ✨ On my extra time, I do advance my skills on Python and R programming for Data Science and Analytics.
-- 💞️ I’m looking to collaborate on all issues related to Environment and Natural Resource Economics, Climate change, Environmental health management and Ecological restoration, Research, Proposal and Report writing, and Data Analysis, among other areas.
+- 👋 Hi, This is @anordius.
+- 👀 Anordius is a Natural Resource Economist and self-taught Data analyst
+  having strong background in Environmental Science and Management, with interest
+  in livelihoods and natural resources conservation.
+
+- 👁️ His focus is on the interaction between human activities and the
+  environment, and how to balance ecological conservation with human
+  livelihoods.
+
+- 🌱 He is currently researching on "**livelihoods diversification
+  strategies and their determinant factors among farmers adjacent to
+  Uzungwa Nature Reserve**" as part of his MSc program in Environmental
+  and Natural Resource Economics (Sokoine University of Agriculture,
+  Tanzania [(Visit the University website
+  here)](https://sua.ac.tz)).
+
+- 🧰 Methodologically, he employs statistical and graphical
+  capabilities in the R framework to reveal hidden patterns from the
+  data collected. He also has been helping Companies, Researchers, and
+  MSc students in statistical modelling and analysis to better present
+  and make meaning out of their projects' data.
+
+- 📌 He loves _Linux Operating System, and open (prefer calling it public) source
+  development_, he use Linux OS and FOSS in his all works.
+
+- ✨ **Services**:
+  - Data analysis and visualization
+  - Ecosystem services valuation
+  - Livelihood and economic assessments
+  - Data analysis training and mentorship
+
+- ✉️ **Contact**: Reach through email,
+  [`ganordius@gmail.com`](ganordius@gmail.com) for any inquiry being data
+  analysis of your project, livelihood and economic assessments, ecosystem
+  services valuation, and in need of **Data analysis training and mentorship**.
+
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: Keep your head up!
 
