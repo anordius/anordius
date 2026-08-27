@@ -1,7 +1,7 @@
 - 👋 Hi, This is @anordius.
-- 👀 Anordius is a Natural Resource Economist and self-taught Data analyst
-  having strong background in Environmental Science and Management, with interest
-  in livelihoods and natural resources conservation.
+- 👀 Anordius is an Environmental Officer, and self-taught Data analyst
+  having strong background in Environmental Science and Management, currently doing research
+  in livelihoods and natural resources conservation as part of MSc.
 
 - 👁️ His focus is on the interaction between human activities and the
   environment, and how to balance ecological conservation with human
@@ -17,11 +17,8 @@
 - 🧰 Methodologically, he employs statistical and graphical
   capabilities in the R framework to reveal hidden patterns from the
   data collected. He also has been helping Companies, Researchers, and
-  MSc students in statistical modelling and analysis to better present
+  MSc & PhD students in statistical modelling and analysis to better present
   and make meaning out of their projects' data.
-
-- 📌 He loves _Linux Operating System, and open (prefer calling it public) source
-  development_, he use Linux OS and FOSS in his all works.
 
 - ✨ **Services**:
   - Data analysis and visualization
@@ -30,7 +27,7 @@
   - Data analysis training and mentorship
 
 - ✉️ **Contact**: Reach through email,
-  [`ganordius@gmail.com`](ganordius@gmail.com) for any inquiry being data
+  [`anordiusgeorge3@gmail.com`](anordiusgeorge3@gmail.com) for any inquiry being data
   analysis of your project, livelihood and economic assessments, ecosystem
   services valuation, and in need of **Data analysis training and mentorship**.
 
