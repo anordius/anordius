@@ -1,6 +1,6 @@
 - 👋 Hi, This is @anordius.
-- 👀 Anordius is an Environmental Officer, and self-taught Data analyst
-  having strong background in Environmental Science and Management, with
+- 👀 Anordius is an Environmental Officer, and self-taught Data analyst (🧰 Tools: Python, QGIS, & R)
+  having strong background in Environmental Science and Management (BSc.), currently doing finalizing
   MSc. in Environmental and Natural Resource Economics.
 
 - 🌱 He did a research on "**livelihoods diversification
@@ -9,23 +9,6 @@
   and Natural Resource Economics (Sokoine University of Agriculture,
   Tanzania [(Visit the University website
   here)](https://sua.ac.tz)).
-
-- 🧰 Methodologically, he uses Python, QGIS and statistical and graphical
-  capabilities in the R framework to reveal hidden patterns from the
-  data collected. He also has been helping Companies, Researchers, and
-  MSc & PhD students in statistical modelling and analysis to better present
-  and make meaning out of their projects' and business' data.
-
-- ✨ **Services**:
-  - Quantitative and Spatial Data analysis and visualisation
-  - Ecosystem services valuation
-  - Livelihood and economic assessments
-  - Data analysis training and mentorship
-
-- ✉️ **Contact**: Reach through email,
-  [`anord.data@gmail.com`](anord.data@gmail.com) for any inquiry being data
-  analysis of your project, livelihood and economic assessments, ecosystem
-  services valuation, and in need of **Data analysis training and mentorship**.
 
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: Keep your head up!
